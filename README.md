@@ -59,8 +59,7 @@ HelpDesk/
 ├── view_ticket.py
 ├── Search_ticket.py
 ├── update_ticket.py
-├── ASSESSMENT/
-│   └── tickets.txt
+├── tickets.txt
 └── README.md
 ```
 
@@ -87,7 +86,7 @@ HelpDesk/
 Replace the placeholder with your actual repository URL:
 
 ```bash
-git clone https://github.com/lanrekeele/CSC_44102_ASSESSMENT.git
+git clone https://github.com/adetoro1989/helpdesk_system.git
 ```
 
 ### 2. Enter the project directory
